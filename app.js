@@ -1,1 +1,1 @@
-console.log("hello from lovable app witouhsrlfds rf");
+console.log("HELLO lovable app witouhsrlfds rf");
